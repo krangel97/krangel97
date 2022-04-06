@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @krangel97
 - 👀 I’m interested in becoming a software developer.
-- 🌱 I’m currently learning Bootstrap through NuCamp.
+- 🌱 I’m currently learning to code through Nucamp.
 - 💞️ I’m not looking to collaborate on anything at the moment.
 - 📫 How to reach me ...
 
